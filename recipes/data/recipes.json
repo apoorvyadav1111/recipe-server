@@ -1,0 +1,274 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "cuisine": "Italian",
+        "ingredients": ["spaghetti", "eggs", "parmesan cheese", "pancetta", "black pepper"],
+        "instructions": [
+            "Boil the pasta in salted water.",
+            "Cook the pancetta until crispy.",
+            "Mix eggs and cheese in a bowl.",
+            "Drain the pasta and combine with pancetta.",
+            "Stir in the egg mixture and season with pepper."
+        ],
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "title": "Tomato Basil Soup",
+        "cuisine": "American",
+        "ingredients": ["tomatoes", "basil", "garlic", "onion", "olive oil"],
+        "instructions": [
+            "Heat olive oil in a pot and cook onions until soft.",
+            "Add garlic and cook for another minute.",
+            "Add tomatoes and cook until they start to break down.",
+            "Blend the mixture until smooth.",
+            "Add basil and simmer for 10 minutes."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 3,
+        "title": "Chicken Tikka Masala",
+        "cuisine": "Indian",
+        "ingredients": ["chicken", "yogurt", "garam masala", "tomato sauce", "cream"],
+        "instructions": [
+            "Marinate chicken in yogurt and spices for 4 hours.",
+            "Grill the chicken until cooked through.",
+            "Cook onions, garlic, and ginger in a pot.",
+            "Add tomato sauce and cream, then simmer.",
+            "Add grilled chicken and simmer for another 10 minutes."
+        ],
+        "rating": 4.9
+    },
+    {
+        "id": 4,
+        "title": "Sushi Rolls",
+        "cuisine": "Japanese",
+        "ingredients": ["sushi rice", "nori", "fish", "vegetables", "soy sauce"],
+        "instructions": [
+            "Cook the sushi rice and season with vinegar.",
+            "Lay nori on a bamboo mat and spread rice on top.",
+            "Place fish and vegetables on the rice.",
+            "Roll the mat tightly to form a roll.",
+            "Cut the roll into pieces and serve with soy sauce."
+        ],
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "title": "Beef Tacos",
+        "cuisine": "Mexican",
+        "ingredients": ["ground beef", "taco seasoning", "tortillas", "lettuce", "cheese"],
+        "instructions": [
+            "Cook ground beef with taco seasoning.",
+            "Warm the tortillas.",
+            "Assemble tacos with beef, lettuce, and cheese.",
+            "Serve with salsa and sour cream."
+        ],
+        "rating": 4.5
+    },
+    {
+        "id": 6,
+        "title": "Pad Thai",
+        "cuisine": "Thai",
+        "ingredients": ["rice noodles", "shrimp", "egg", "peanuts", "bean sprouts"],
+        "instructions": [
+            "Soak rice noodles in hot water until soft.",
+            "Stir-fry shrimp and set aside.",
+            "Cook egg in a pan and scramble it.",
+            "Add noodles, sauce, and shrimp to the pan.",
+            "Top with peanuts and bean sprouts."
+        ],
+        "rating": 4.8
+    },
+    {
+        "id": 7,
+        "title": "Greek Salad",
+        "cuisine": "Greek",
+        "ingredients": ["cucumber", "tomato", "feta cheese", "olive oil", "olives"],
+        "instructions": [
+            "Chop cucumber and tomato.",
+            "Mix with feta cheese and olives.",
+            "Drizzle with olive oil and season with salt."
+        ],
+        "rating": 4.5
+    },
+    {
+        "id": 8,
+        "title": "Croissants",
+        "cuisine": "French",
+        "ingredients": ["flour", "butter", "yeast", "milk", "sugar"],
+        "instructions": [
+            "Mix flour, yeast, and sugar.",
+            "Add milk and knead the dough.",
+            "Fold in butter and roll out the dough.",
+            "Cut into triangles and roll into croissants.",
+            "Bake until golden brown."
+        ],
+        "rating": 4.9
+    },
+    {
+        "id": 9,
+        "title": "Falafel",
+        "cuisine": "Middle Eastern",
+        "ingredients": ["chickpeas", "parsley", "garlic", "onion", "flour"],
+        "instructions": [
+            "Blend chickpeas, parsley, garlic, and onion.",
+            "Form the mixture into balls and coat with flour.",
+            "Fry until golden brown.",
+            "Serve in pita bread with tahini sauce."
+        ],
+        "rating": 4.7
+    },
+    {
+        "id": 10,
+        "title": "Butter Chicken",
+        "cuisine": "Indian",
+        "ingredients": ["chicken", "butter", "tomato puree", "cream", "spices"],
+        "instructions": [
+            "Marinate chicken in spices and yogurt.",
+            "Cook chicken in butter until browned.",
+            "Add tomato puree and cream.",
+            "Simmer until the sauce thickens.",
+            "Serve with rice or naan."
+        ],
+        "rating": 4.8
+    },
+    {
+        "id": 11,
+        "title": "Clam Chowder",
+        "cuisine": "American",
+        "ingredients": ["clams", "potatoes", "onion", "celery", "cream"],
+        "instructions": [
+            "Cook onions and celery in a pot.",
+            "Add potatoes and clams with their juice.",
+            "Simmer until potatoes are tender.",
+            "Add cream and heat through.",
+            "Serve with bread."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 12,
+        "title": "Pho",
+        "cuisine": "Vietnamese",
+        "ingredients": ["beef broth", "rice noodles", "beef", "bean sprouts", "basil"],
+        "instructions": [
+            "Simmer beef broth with spices.",
+            "Cook rice noodles separately.",
+            "Thinly slice beef and add to the broth.",
+            "Serve broth and beef over noodles.",
+            "Top with bean sprouts and basil."
+        ],
+        "rating": 4.8
+    },
+    {
+        "id": 13,
+        "title": "Peking Duck",
+        "cuisine": "Chinese",
+        "ingredients": ["duck", "hoisin sauce", "scallions", "pancakes"],
+        "instructions": [
+            "Roast the duck until crispy.",
+            "Slice the duck and serve with hoisin sauce.",
+            "Wrap in pancakes with scallions."
+        ],
+        "rating": 4.9
+    },
+    {
+        "id": 14,
+        "title": "Moussaka",
+        "cuisine": "Greek",
+        "ingredients": ["eggplant", "ground beef", "tomato sauce", "bechamel sauce", "cheese"],
+        "instructions": [
+            "Slice and cook eggplant.",
+            "Cook ground beef with tomato sauce.",
+            "Layer eggplant and beef in a baking dish.",
+            "Top with bechamel sauce and cheese.",
+            "Bake until golden brown."
+        ],
+        "rating": 4.7
+    },
+    {
+        "id": 15,
+        "title": "Fish and Chips",
+        "cuisine": "British",
+        "ingredients": ["fish fillets", "potatoes", "flour", "beer", "oil"],
+        "instructions": [
+            "Slice potatoes and fry until crispy.",
+            "Dip fish in a batter made of flour and beer.",
+            "Fry the fish until golden brown.",
+            "Serve with chips and tartar sauce."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 16,
+        "title": "Gazpacho",
+        "cuisine": "Spanish",
+        "ingredients": ["tomatoes", "cucumber", "bell pepper", "garlic", "olive oil"],
+        "instructions": [
+            "Blend tomatoes, cucumber, bell pepper, and garlic.",
+            "Add olive oil and blend until smooth.",
+            "Chill in the refrigerator.",
+            "Serve cold."
+        ],
+        "rating": 4.5
+    },
+    {
+        "id": 17,
+        "title": "Bibimbap",
+        "cuisine": "Korean",
+        "ingredients": ["rice", "beef", "vegetables", "egg", "gochujang"],
+        "instructions": [
+            "Cook rice and set aside.",
+            "Stir-fry beef and vegetables.",
+            "Fry an egg sunny-side up.",
+            "Assemble rice, beef, vegetables, and egg in a bowl.",
+            "Serve with gochujang."
+        ],
+        "rating": 4.8
+    },
+    {
+        "id": 18,
+        "title": "Shakshuka",
+        "cuisine": "Middle Eastern",
+        "ingredients": ["tomatoes", "bell pepper", "onion", "eggs", "spices"],
+        "instructions": [
+            "Cook onions and bell pepper in a pan.",
+            "Add tomatoes and spices, then simmer.",
+            "Make wells in the sauce and crack eggs into them.",
+            "Cover and cook until eggs are set.",
+            "Serve with bread."
+        ],
+        "rating": 4.7
+    },
+    {
+        "id": 19,
+        "title": "Risotto",
+        "cuisine": "Italian",
+        "ingredients": ["arborio rice", "chicken broth", "parmesan cheese", "butter", "onion"],
+        "instructions": [
+            "Cook onions in butter until soft.",
+            "Add rice and cook until lightly toasted.",
+            "Gradually add broth, stirring constantly.",
+            "Cook until rice is creamy and tender.",
+            "Stir in parmesan cheese."
+        ],
+        "rating": 4.8
+    },
+    {
+        "id": 20,
+        "title": "Paella",
+        "cuisine": "Spanish",
+        "ingredients": ["rice", "saffron", "chicken", "seafood", "bell pepper"],
+        "instructions": [
+            "Cook chicken and set aside.",
+            "Cook onions and bell pepper in a pan.",
+            "Add rice and saffron, then stir.",
+            "Add broth and bring to a simmer.",
+            "Add chicken and seafood, then cook until done."
+        ],
+        "rating": 4.9
+    }
+]
