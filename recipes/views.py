@@ -17,7 +17,8 @@ class RecipeList(APIView):
                 'id':recipe['id'],
                 'title':recipe['title'],
                 'rating':recipe['rating'],
-                'cuisine':recipe['cuisine']
+                'cuisine':recipe['cuisine'],
+                'ingredients':recipe['ingredients']
             })
         return Response(resp)
     

@@ -35,9 +35,17 @@ SECRET_KEY = os.environ['SECRET_KEY']
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.environ['ENV'] == 'DEV'
 
-ALLOWED_HOSTS = []
+if os.environ['ENV'] == 'DEV':
+    ALLOWED_HOSTS = ['localhost','127.0.0.1']
+else:
+    ALLOWED_HOSTS = os.environ['ALLOWED_HOSTS'].split(',')
 
-
+if os.environ['ENV'] == 'DEV':
+    CORS_ALLOWED_ORIGINS = [
+    'http://localhost:3000', #For React Project
+    ]
+else:
+    CORS_ALLOWED_ORIGINS = os.environ['CORS_ALLOWED_ORIGINS'].split(',')
 # Application definition
 
 INSTALLED_APPS = [
@@ -47,7 +55,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'corsheaders',
     'recipes',
+
 ]
 
 MIDDLEWARE = [
@@ -58,6 +68,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'corsheaders.middleware.CorsMiddleware'
 ]
 
 ROOT_URLCONF = 'recipes_mktplace.urls'

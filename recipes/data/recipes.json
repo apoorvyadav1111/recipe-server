@@ -1,274 +1,429 @@
 [
     {
         "id": 1,
-        "title": "Spaghetti Carbonara",
+        "title": "Chicken Alfredo",
         "cuisine": "Italian",
-        "ingredients": ["spaghetti", "eggs", "parmesan cheese", "pancetta", "black pepper"],
+        "ingredients": ["chicken breast", "fettuccine pasta", "butter", "heavy cream", "Parmesan cheese", "garlic"],
         "instructions": [
-            "Boil the pasta in salted water.",
-            "Cook the pancetta until crispy.",
-            "Mix eggs and cheese in a bowl.",
-            "Drain the pasta and combine with pancetta.",
-            "Stir in the egg mixture and season with pepper."
+            "Cook pasta according to package instructions.",
+            "In a pan, melt butter and sauté garlic.",
+            "Add chicken and cook until done.",
+            "Pour in heavy cream and simmer.",
+            "Stir in Parmesan cheese until melted.",
+            "Combine pasta with sauce and serve."
         ],
-        "rating": 4.8
+        "rating": 4
     },
     {
         "id": 2,
-        "title": "Tomato Basil Soup",
-        "cuisine": "American",
-        "ingredients": ["tomatoes", "basil", "garlic", "onion", "olive oil"],
+        "title": "Vegetarian Tacos",
+        "cuisine": "Mexican",
+        "ingredients": ["corn tortillas", "black beans", "avocado", "tomato", "lettuce", "cheddar cheese", "salsa"],
         "instructions": [
-            "Heat olive oil in a pot and cook onions until soft.",
-            "Add garlic and cook for another minute.",
-            "Add tomatoes and cook until they start to break down.",
-            "Blend the mixture until smooth.",
-            "Add basil and simmer for 10 minutes."
+            "Warm tortillas in a pan.",
+            "Layer black beans, avocado, tomato, lettuce, and cheese on tortillas.",
+            "Top with salsa and serve."
         ],
-        "rating": 4.6
+        "rating": 5
     },
     {
         "id": 3,
-        "title": "Chicken Tikka Masala",
-        "cuisine": "Indian",
-        "ingredients": ["chicken", "yogurt", "garam masala", "tomato sauce", "cream"],
+        "title": "Grilled Salmon",
+        "cuisine": "American",
+        "ingredients": ["salmon fillets", "olive oil", "lemon", "garlic", "dill"],
         "instructions": [
-            "Marinate chicken in yogurt and spices for 4 hours.",
-            "Grill the chicken until cooked through.",
-            "Cook onions, garlic, and ginger in a pot.",
-            "Add tomato sauce and cream, then simmer.",
-            "Add grilled chicken and simmer for another 10 minutes."
+            "Preheat grill to medium-high heat.",
+            "Brush salmon with olive oil and season with garlic and dill.",
+            "Grill salmon for 4-6 minutes per side.",
+            "Serve with lemon wedges."
         ],
-        "rating": 4.9
+        "rating": 4
     },
     {
         "id": 4,
-        "title": "Sushi Rolls",
-        "cuisine": "Japanese",
-        "ingredients": ["sushi rice", "nori", "fish", "vegetables", "soy sauce"],
+        "title": "Vegetable Stir Fry",
+        "cuisine": "Chinese",
+        "ingredients": ["broccoli", "carrot", "bell pepper", "snow peas", "soy sauce", "ginger", "garlic", "sesame oil"],
         "instructions": [
-            "Cook the sushi rice and season with vinegar.",
-            "Lay nori on a bamboo mat and spread rice on top.",
-            "Place fish and vegetables on the rice.",
-            "Roll the mat tightly to form a roll.",
-            "Cut the roll into pieces and serve with soy sauce."
+            "Heat sesame oil in a pan.",
+            "Add garlic and ginger, sauté until fragrant.",
+            "Add vegetables and stir fry until tender.",
+            "Pour in soy sauce and cook for another minute.",
+            "Serve hot."
         ],
-        "rating": 4.7
+        "rating": 3
     },
     {
         "id": 5,
-        "title": "Beef Tacos",
-        "cuisine": "Mexican",
-        "ingredients": ["ground beef", "taco seasoning", "tortillas", "lettuce", "cheese"],
+        "title": "Margherita Pizza",
+        "cuisine": "Italian",
+        "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "fresh basil", "olive oil"],
         "instructions": [
-            "Cook ground beef with taco seasoning.",
-            "Warm the tortillas.",
-            "Assemble tacos with beef, lettuce, and cheese.",
-            "Serve with salsa and sour cream."
+            "Preheat oven to 475°F (245°C).",
+            "Spread tomato sauce over pizza dough.",
+            "Top with mozzarella cheese and fresh basil.",
+            "Drizzle with olive oil.",
+            "Bake for 10-15 minutes until crust is golden.",
+            "Serve hot."
         ],
-        "rating": 4.5
+        "rating": 5
     },
     {
         "id": 6,
-        "title": "Pad Thai",
-        "cuisine": "Thai",
-        "ingredients": ["rice noodles", "shrimp", "egg", "peanuts", "bean sprouts"],
+        "title": "Chicken Curry",
+        "cuisine": "Indian",
+        "ingredients": ["chicken breast", "onion", "tomato", "garlic", "ginger", "curry powder", "coconut milk"],
         "instructions": [
-            "Soak rice noodles in hot water until soft.",
-            "Stir-fry shrimp and set aside.",
-            "Cook egg in a pan and scramble it.",
-            "Add noodles, sauce, and shrimp to the pan.",
-            "Top with peanuts and bean sprouts."
+            "Sauté onion, garlic, and ginger in a pot.",
+            "Add chicken and cook until browned.",
+            "Stir in curry powder and cook for another minute.",
+            "Add tomatoes and coconut milk, simmer until chicken is cooked through.",
+            "Serve with rice."
         ],
-        "rating": 4.8
+        "rating": 4
     },
     {
         "id": 7,
-        "title": "Greek Salad",
-        "cuisine": "Greek",
-        "ingredients": ["cucumber", "tomato", "feta cheese", "olive oil", "olives"],
+        "title": "Quinoa Salad",
+        "cuisine": "American",
+        "ingredients": ["quinoa", "cucumber", "tomato", "red onion", "feta cheese", "olive oil", "lemon"],
         "instructions": [
-            "Chop cucumber and tomato.",
-            "Mix with feta cheese and olives.",
-            "Drizzle with olive oil and season with salt."
+            "Cook quinoa according to package instructions.",
+            "Mix quinoa with diced cucumber, tomato, red onion, and feta cheese.",
+            "Drizzle with olive oil and lemon juice.",
+            "Serve chilled."
         ],
-        "rating": 4.5
+        "rating": 3
     },
     {
         "id": 8,
-        "title": "Croissants",
-        "cuisine": "French",
-        "ingredients": ["flour", "butter", "yeast", "milk", "sugar"],
+        "title": "Shrimp Scampi",
+        "cuisine": "Italian",
+        "ingredients": ["shrimp", "butter", "garlic", "lemon", "parsley", "spaghetti"],
         "instructions": [
-            "Mix flour, yeast, and sugar.",
-            "Add milk and knead the dough.",
-            "Fold in butter and roll out the dough.",
-            "Cut into triangles and roll into croissants.",
-            "Bake until golden brown."
+            "Cook spaghetti according to package instructions.",
+            "In a pan, melt butter and sauté garlic.",
+            "Add shrimp and cook until pink.",
+            "Stir in lemon juice and parsley.",
+            "Combine with cooked spaghetti and serve."
         ],
-        "rating": 4.9
+        "rating": 5
     },
     {
         "id": 9,
-        "title": "Falafel",
+        "title": "Lentil Soup",
         "cuisine": "Middle Eastern",
-        "ingredients": ["chickpeas", "parsley", "garlic", "onion", "flour"],
+        "ingredients": ["lentils", "carrot", "celery", "onion", "garlic", "tomato paste", "cumin"],
         "instructions": [
-            "Blend chickpeas, parsley, garlic, and onion.",
-            "Form the mixture into balls and coat with flour.",
-            "Fry until golden brown.",
-            "Serve in pita bread with tahini sauce."
+            "Sauté onion, carrot, celery, and garlic in a pot.",
+            "Add lentils, tomato paste, and cumin.",
+            "Pour in water or broth and bring to a boil.",
+            "Simmer until lentils are tender.",
+            "Serve hot."
         ],
-        "rating": 4.7
+        "rating": 4
     },
     {
         "id": 10,
-        "title": "Butter Chicken",
-        "cuisine": "Indian",
-        "ingredients": ["chicken", "butter", "tomato puree", "cream", "spices"],
+        "title": "Caprese Salad",
+        "cuisine": "Italian",
+        "ingredients": ["tomato", "mozzarella cheese", "fresh basil", "olive oil", "balsamic vinegar"],
         "instructions": [
-            "Marinate chicken in spices and yogurt.",
-            "Cook chicken in butter until browned.",
-            "Add tomato puree and cream.",
-            "Simmer until the sauce thickens.",
-            "Serve with rice or naan."
+            "Slice tomato and mozzarella cheese.",
+            "Layer tomato, mozzarella, and basil on a plate.",
+            "Drizzle with olive oil and balsamic vinegar.",
+            "Serve chilled."
         ],
-        "rating": 4.8
+        "rating": 3
     },
     {
         "id": 11,
-        "title": "Clam Chowder",
-        "cuisine": "American",
-        "ingredients": ["clams", "potatoes", "onion", "celery", "cream"],
+        "title": "Falafel",
+        "cuisine": "Middle Eastern",
+        "ingredients": ["chickpeas", "onion", "garlic", "parsley", "cumin", "coriander", "flour"],
         "instructions": [
-            "Cook onions and celery in a pot.",
-            "Add potatoes and clams with their juice.",
-            "Simmer until potatoes are tender.",
-            "Add cream and heat through.",
-            "Serve with bread."
+            "Blend chickpeas, onion, garlic, parsley, cumin, and coriander in a food processor.",
+            "Form mixture into balls and flatten slightly.",
+            "Heat oil in a pan and fry falafel until golden brown.",
+            "Serve with pita bread and tahini sauce."
         ],
-        "rating": 4.6
+        "rating": 5
     },
     {
         "id": 12,
-        "title": "Pho",
-        "cuisine": "Vietnamese",
-        "ingredients": ["beef broth", "rice noodles", "beef", "bean sprouts", "basil"],
+        "title": "Chicken Caesar Salad",
+        "cuisine": "American",
+        "ingredients": ["chicken breast", "romaine lettuce", "croutons", "Parmesan cheese", "Caesar dressing"],
         "instructions": [
-            "Simmer beef broth with spices.",
-            "Cook rice noodles separately.",
-            "Thinly slice beef and add to the broth.",
-            "Serve broth and beef over noodles.",
-            "Top with bean sprouts and basil."
+            "Grill or sauté chicken breast and slice.",
+            "Toss romaine lettuce with Caesar dressing.",
+            "Top with chicken, croutons, and Parmesan cheese.",
+            "Serve chilled."
         ],
-        "rating": 4.8
+        "rating": 4
     },
     {
         "id": 13,
-        "title": "Peking Duck",
-        "cuisine": "Chinese",
-        "ingredients": ["duck", "hoisin sauce", "scallions", "pancakes"],
+        "title": "Pad Thai",
+        "cuisine": "Thai",
+        "ingredients": ["rice noodles", "shrimp", "egg", "bean sprouts", "peanuts", "lime", "soy sauce"],
         "instructions": [
-            "Roast the duck until crispy.",
-            "Slice the duck and serve with hoisin sauce.",
-            "Wrap in pancakes with scallions."
+            "Cook rice noodles according to package instructions.",
+            "In a pan, cook shrimp until pink.",
+            "Push shrimp to the side and scramble egg in the same pan.",
+            "Add cooked noodles, bean sprouts, and soy sauce.",
+            "Stir to combine and top with peanuts and lime."
         ],
-        "rating": 4.9
+        "rating": 5
     },
     {
         "id": 14,
-        "title": "Moussaka",
-        "cuisine": "Greek",
-        "ingredients": ["eggplant", "ground beef", "tomato sauce", "bechamel sauce", "cheese"],
+        "title": "Vegetable Samosas",
+        "cuisine": "Indian",
+        "ingredients": ["potatoes", "peas", "onion", "garlic", "ginger", "cumin", "flour", "oil"],
         "instructions": [
-            "Slice and cook eggplant.",
-            "Cook ground beef with tomato sauce.",
-            "Layer eggplant and beef in a baking dish.",
-            "Top with bechamel sauce and cheese.",
-            "Bake until golden brown."
+            "Boil and mash potatoes.",
+            "Sauté onion, garlic, ginger, and cumin in a pan.",
+            "Add peas and mashed potatoes, cook for a few minutes.",
+            "Prepare dough with flour and water, roll into circles.",
+            "Fill with potato mixture, fold, and seal edges.",
+            "Fry samosas in hot oil until golden brown.",
+            "Serve hot."
         ],
-        "rating": 4.7
+        "rating": 4
     },
     {
         "id": 15,
-        "title": "Fish and Chips",
-        "cuisine": "British",
-        "ingredients": ["fish fillets", "potatoes", "flour", "beer", "oil"],
+        "title": "Tofu Stir Fry",
+        "cuisine": "Chinese",
+        "ingredients": ["tofu", "broccoli", "carrot", "bell pepper", "soy sauce", "ginger", "garlic", "sesame oil"],
         "instructions": [
-            "Slice potatoes and fry until crispy.",
-            "Dip fish in a batter made of flour and beer.",
-            "Fry the fish until golden brown.",
-            "Serve with chips and tartar sauce."
+            "Heat sesame oil in a pan.",
+            "Add garlic and ginger, sauté until fragrant.",
+            "Add tofu and cook until golden brown.",
+            "Add vegetables and stir fry until tender.",
+            "Pour in soy sauce and cook for another minute.",
+            "Serve hot."
         ],
-        "rating": 4.6
+        "rating": 3
     },
     {
         "id": 16,
-        "title": "Gazpacho",
-        "cuisine": "Spanish",
-        "ingredients": ["tomatoes", "cucumber", "bell pepper", "garlic", "olive oil"],
+        "title": "Vegetarian Chili",
+        "cuisine": "American",
+        "ingredients": ["kidney beans", "black beans", "tomatoes", "onion", "bell pepper", "garlic", "chili powder"],
         "instructions": [
-            "Blend tomatoes, cucumber, bell pepper, and garlic.",
-            "Add olive oil and blend until smooth.",
-            "Chill in the refrigerator.",
-            "Serve cold."
+            "Sauté onion, bell pepper, and garlic in a pot.",
+            "Add beans, tomatoes, and chili powder.",
+            "Simmer for 20-30 minutes.",
+            "Serve hot."
         ],
-        "rating": 4.5
+        "rating": 4
     },
     {
         "id": 17,
-        "title": "Bibimbap",
-        "cuisine": "Korean",
-        "ingredients": ["rice", "beef", "vegetables", "egg", "gochujang"],
+        "title": "Chicken Fried Rice",
+        "cuisine": "Chinese",
+        "ingredients": ["chicken breast", "rice", "egg", "carrot", "peas", "soy sauce", "green onions"],
         "instructions": [
-            "Cook rice and set aside.",
-            "Stir-fry beef and vegetables.",
-            "Fry an egg sunny-side up.",
-            "Assemble rice, beef, vegetables, and egg in a bowl.",
-            "Serve with gochujang."
+            "Cook rice according to package instructions.",
+            "In a pan, scramble egg and set aside.",
+            "Sauté chicken until cooked through, add carrot and peas.",
+            "Add rice and soy sauce, stir to combine.",
+            "Stir in scrambled egg and green onions.",
+            "Serve hot."
         ],
-        "rating": 4.8
+        "rating": 4
     },
     {
         "id": 18,
-        "title": "Shakshuka",
-        "cuisine": "Middle Eastern",
-        "ingredients": ["tomatoes", "bell pepper", "onion", "eggs", "spices"],
+        "title": "Greek Salad",
+        "cuisine": "Greek",
+        "ingredients": ["cucumber", "tomato", "red onion", "olives", "feta cheese", "olive oil", "lemon"],
         "instructions": [
-            "Cook onions and bell pepper in a pan.",
-            "Add tomatoes and spices, then simmer.",
-            "Make wells in the sauce and crack eggs into them.",
-            "Cover and cook until eggs are set.",
-            "Serve with bread."
+            "Dice cucumber, tomato, and red onion.",
+            "Mix with olives and feta cheese.",
+            "Drizzle with olive oil and lemon juice.",
+            "Serve chilled."
         ],
-        "rating": 4.7
+        "rating": 3
     },
     {
         "id": 19,
-        "title": "Risotto",
-        "cuisine": "Italian",
-        "ingredients": ["arborio rice", "chicken broth", "parmesan cheese", "butter", "onion"],
+        "title": "Fish Tacos",
+        "cuisine": "Mexican",
+        "ingredients": ["white fish fillets", "corn tortillas", "cabbage", "avocado", "sour cream", "lime", "cilantro"],
         "instructions": [
-            "Cook onions in butter until soft.",
-            "Add rice and cook until lightly toasted.",
-            "Gradually add broth, stirring constantly.",
-            "Cook until rice is creamy and tender.",
-            "Stir in parmesan cheese."
+            "Cook fish fillets until done.",
+            "Warm tortillas in a pan.",
+            "Layer fish, cabbage, avocado, and cilantro on tortillas.",
+            "Top with sour cream and a squeeze of lime.",
+            "Serve immediately."
         ],
-        "rating": 4.8
+        "rating": 4
     },
     {
         "id": 20,
-        "title": "Paella",
-        "cuisine": "Spanish",
-        "ingredients": ["rice", "saffron", "chicken", "seafood", "bell pepper"],
+        "title": "Mushroom Risotto",
+        "cuisine": "Italian",
+        "ingredients": ["Arborio rice", "mushrooms", "onion", "garlic", "Parmesan cheese", "white wine", "vegetable broth"],
         "instructions": [
-            "Cook chicken and set aside.",
-            "Cook onions and bell pepper in a pan.",
-            "Add rice and saffron, then stir.",
-            "Add broth and bring to a simmer.",
-            "Add chicken and seafood, then cook until done."
+            "Sauté onion and garlic in a pot.",
+            "Add mushrooms and cook until tender.",
+            "Stir in Arborio rice and cook for a minute.",
+            "Add white wine and cook until absorbed.",
+            "Gradually add vegetable broth, stirring frequently.",
+            "Cook until rice is creamy and tender.",
+            "Stir in Parmesan cheese and serve."
         ],
-        "rating": 4.9
+        "rating": 5
+    },
+    {
+        "id": 21,
+        "title": "Chicken Quesadillas",
+        "cuisine": "Mexican",
+        "ingredients": ["chicken breast", "flour tortillas", "cheddar cheese", "bell pepper", "onion", "sour cream", "salsa"],
+        "instructions": [
+            "Cook chicken breast and slice thinly.",
+            "Sauté bell pepper and onion until tender.",
+            "Place chicken, bell pepper, onion, and cheese on one half of a tortilla.",
+            "Fold tortilla and cook in a pan until golden brown.",
+            "Serve with sour cream and salsa."
+        ],
+        "rating": 4
+    },
+    {
+        "id": 22,
+        "title": "Eggplant Parmesan",
+        "cuisine": "Italian",
+        "ingredients": ["eggplant", "tomato sauce", "mozzarella cheese", "Parmesan cheese", "basil", "bread crumbs"],
+        "instructions": [
+            "Preheat oven to 375°F (190°C).",
+            "Slice eggplant and coat with bread crumbs.",
+            "Bake eggplant slices until tender.",
+            "Layer eggplant, tomato sauce, and cheeses in a baking dish.",
+            "Bake for 25-30 minutes until cheese is melted.",
+            "Garnish with basil and serve."
+        ],
+        "rating": 4
+    },
+    {
+        "id": 23,
+        "title": "Vegetarian Lasagna",
+        "cuisine": "Italian",
+        "ingredients": ["lasagna noodles", "ricotta cheese", "spinach", "mozzarella cheese", "tomato sauce", "Parmesan cheese"],
+        "instructions": [
+            "Preheat oven to 375°F (190°C).",
+            "Cook lasagna noodles according to package instructions.",
+            "Mix ricotta cheese with spinach.",
+            "Layer noodles, ricotta mixture, tomato sauce, and mozzarella cheese in a baking dish.",
+            "Repeat layers and top with Parmesan cheese.",
+            "Bake for 30-35 minutes until cheese is melted.",
+            "Serve hot."
+        ],
+        "rating": 5
+    },
+    {
+        "id": 24,
+        "title": "Chickpea Curry",
+        "cuisine": "Indian",
+        "ingredients": ["chickpeas", "onion", "tomato", "garlic", "ginger", "curry powder", "coconut milk"],
+        "instructions": [
+            "Sauté onion, garlic, and ginger in a pot.",
+            "Add chickpeas and cook for a few minutes.",
+            "Stir in curry powder and cook for another minute.",
+            "Add tomatoes and coconut milk, simmer until chickpeas are tender.",
+            "Serve with rice."
+        ],
+        "rating": 4
+    },
+    {
+        "id": 25,
+        "title": "Shrimp Fried Rice",
+        "cuisine": "Chinese",
+        "ingredients": ["shrimp", "rice", "egg", "carrot", "peas", "soy sauce", "green onions"],
+        "instructions": [
+            "Cook rice according to package instructions.",
+            "In a pan, scramble egg and set aside.",
+            "Sauté shrimp until pink, add carrot and peas.",
+            "Add rice and soy sauce, stir to combine.",
+            "Stir in scrambled egg and green onions.",
+            "Serve hot."
+        ],
+        "rating": 5
+    },
+    {
+        "id": 26,
+        "title": "Stuffed Bell Peppers",
+        "cuisine": "American",
+        "ingredients": ["bell peppers", "quinoa", "black beans", "corn", "tomato", "cheddar cheese"],
+        "instructions": [
+            "Preheat oven to 375°F (190°C).",
+            "Cook quinoa according to package instructions.",
+            "Mix quinoa with black beans, corn, and diced tomato.",
+            "Cut tops off bell peppers and remove seeds.",
+            "Stuff peppers with quinoa mixture and top with cheese.",
+            "Bake for 25-30 minutes until peppers are tender.",
+            "Serve hot."
+        ],
+        "rating": 4
+    },
+    {
+        "id": 27,
+        "title": "Vegetarian Sushi Rolls",
+        "cuisine": "Japanese",
+        "ingredients": ["sushi rice", "nori (seaweed)", "cucumber", "carrot", "avocado", "soy sauce"],
+        "instructions": [
+            "Cook sushi rice according to package instructions.",
+            "Place a sheet of nori on a bamboo mat.",
+            "Spread a layer of sushi rice on nori.",
+            "Add strips of cucumber, carrot, and avocado.",
+            "Roll tightly and slice into pieces.",
+            "Serve with soy sauce."
+        ],
+        "rating": 4
+    },
+    {
+        "id": 28,
+        "title": "Chickpea Salad",
+        "cuisine": "Mediterranean",
+        "ingredients": ["chickpeas", "cucumber", "tomato", "red onion", "feta cheese", "olive oil", "lemon"],
+        "instructions": [
+            "Mix chickpeas with diced cucumber, tomato, and red onion.",
+            "Add crumbled feta cheese.",
+            "Drizzle with olive oil and lemon juice.",
+            "Serve chilled."
+        ],
+        "rating": 3
+    },
+    {
+        "id": 29,
+        "title": "Chicken Fajitas",
+        "cuisine": "Mexican",
+        "ingredients": ["chicken breast", "bell pepper", "onion", "flour tortillas", "sour cream", "salsa"],
+        "instructions": [
+            "Slice chicken breast, bell pepper, and onion.",
+            "Sauté chicken and vegetables until cooked through.",
+            "Warm tortillas in a pan.",
+            "Fill tortillas with chicken and vegetables.",
+            "Serve with sour cream and salsa."
+        ],
+        "rating": 4
+    },
+    {
+        "id": 30,
+        "title": "Spinach and Ricotta Stuffed Shells",
+        "cuisine": "Italian",
+        "ingredients": ["pasta shells", "spinach", "ricotta cheese", "Parmesan cheese", "tomato sauce"],
+        "instructions": [
+            "Preheat oven to 375°F (190°C).",
+            "Cook pasta shells according to package instructions.",
+            "Mix ricotta cheese with spinach and Parmesan cheese.",
+            "Stuff shells with ricotta mixture.",
+            "Place in a baking dish and cover with tomato sauce.",
+            "Bake for 25-30 minutes until heated through.",
+            "Serve hot."
+        ],
+        "rating": 5
     }
 ]
